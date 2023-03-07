@@ -1,13 +1,19 @@
-# Sample Hardhat Project
+# Nft minting smart contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a nft minting site with hardhat framework.
 
-Try running some of the following tasks:
+[hosting on vercel for frontend](https://crypto-devs-frontend.vercel.app/).
+
+# appendix
+Deploying on Goerli testnet. Smart Contract address - 
+0x5BB8978026a346269D09a71a2D266Fd3cC860E3d
+
+# Install depencies
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+npm install
 ```
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
